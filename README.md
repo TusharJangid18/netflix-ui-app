@@ -10,8 +10,8 @@ The application simulates a **short-form media streaming platform**, allowing us
 
 ## 🚀 Live Demo
 
-👉 *(Add your Vercel link here)*
-👉 *(Add your GitHub repo link here)*
+👉 *(netflix-ui-qqoj1ptab-tusharjangid18s-projects.vercel.app)*
+👉 *(https://github.com/TusharJangid18/netflix-ui-app.git)*
 
 ---
 
